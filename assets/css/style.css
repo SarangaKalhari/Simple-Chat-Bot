@@ -49,7 +49,7 @@ body {
     }
 
     /* Messages area */
-    /* .chat-body {
+    .chat-body {
       flex: 1;
       padding: 10px;
       overflow-y: auto;
@@ -74,7 +74,7 @@ body {
       background: #2979ff;
       color: white;
       float: right;
-    } */
+    }
 
     /* Quick replies
     .quick-replies {
